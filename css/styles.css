@@ -1,0 +1,17 @@
+body{
+    background-color: #e8ffff;
+}
+h3{
+   color: #213e3b;
+}h1{
+   color: #213e3b;
+}h2 {
+   color: #213e3b;
+}
+hr{
+    border-top:10px dotted #a6f6f1;
+    width: 5%;
+}
+p,table,ul,ol{
+    color: #41aea9;
+}
