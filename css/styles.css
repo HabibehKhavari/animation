@@ -9,8 +9,14 @@ h3{
    color: #213e3b;
 }
 hr{
-    border-top:10px dotted #a6f6f1;
-    width: 5%;
+    border-top:dotted;
+    border-width: 7px;
+    width: 50px;
+    border-left: none;
+    border-bottom:none;
+    border-right: none;
+    height: 0px;
+    border-color: #a6f6f1;
 }
 p,table,ul,ol{
     color: #41aea9;
