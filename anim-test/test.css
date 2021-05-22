@@ -1,0 +1,22 @@
+.container {
+  margin-left: 300px;
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+}
+
+@keyframes add-anim {
+  from {
+    left: -200px;
+  }
+  to {
+    left: 0px;
+  }
+}
+.animation {
+  animation-name: add-anim;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-fill-mode: backwards;
+}
